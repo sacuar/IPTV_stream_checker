@@ -1,4 +1,6 @@
 # IPTV_stream_checker
-Checks working and not working link in a m3u file
+Checks working and not working link in a m3u file. Open the m3u file and press check, also you can modify the red invalid links and update the m3u.
+
+Enkoy!! :heart::heart:
 ![alt text](https://github.com/sacuar/IPTV_stream_checker/blob/main/screenshots/scr1.jpg?raw=true)
-https://github.com/sacuar/IPTV_stream_checker//main/README.md
+
