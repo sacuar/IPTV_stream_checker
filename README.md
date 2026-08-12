@@ -3,6 +3,13 @@ Checks working and not working link in a m3u file. Open the m3u file and press c
 
 Enjoy!! :heart::heart:
 
+
+## Support the project
+
+If you find this software useful, you can support its development:
+
+☕ Buy me a coffee   buymeacoffee.com/sacuar
+
 Download here: ( https://github.com/sacuar/IPTV_stream_checker/releases/tag/IPTV-M3U-CHECK)
 
 
