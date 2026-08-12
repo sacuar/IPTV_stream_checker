@@ -9,8 +9,9 @@ Enjoy!! :heart::heart:
 If you find this software useful, you can support its development:
 
 <!--START_SECTION:buy-me-a-coffee-->
-[☕ Buy me a coffee ]  https://buymeacoffee.com/sacuar
-<!--END_SECTION:buy-me-a-coffe-->
+<a href="https://www.buymeacoffee.com/sacuar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+<!--  [☕ Buy me a coffee ]  https://buymeacoffee.com/sacuarEND_SECTION:buy-me-a-coffe-->
 
 Download here: ( https://github.com/sacuar/IPTV_stream_checker/releases/tag/IPTV-M3U-CHECK)
 <!--![Screenshot](screenshots/scr1.jpg) -->
