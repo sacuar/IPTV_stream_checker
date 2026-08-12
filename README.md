@@ -11,7 +11,7 @@ If you find this software useful, you can support its development:
 [☕ Buy me a coffee ]  https://buymeacoffee.com/sacuar
 Download here: ( https://github.com/sacuar/IPTV_stream_checker/releases/tag/IPTV-M3U-CHECK)
 ![Screenshot](screenshots/scr1.jpg)
-<img src="images/screenshot.png" width="200">
+<img src="screenshots/scr1.jpg" width="200">
 
 ##![alt text](https://github.com/sacuar/IPTV_stream_checker/blob/main/screenshots/scr1.jpg?raw=true)
 
