@@ -8,8 +8,7 @@ Enjoy!! :heart::heart:
 
 If you find this software useful, you can support its development:
 
-☕ Buy me a coffee   buymeacoffee.com/sacuar
-
+☕ Buy me a coffee   https://buymeacoffee.com/sacuar
 Download here: ( https://github.com/sacuar/IPTV_stream_checker/releases/tag/IPTV-M3U-CHECK)
 
 
